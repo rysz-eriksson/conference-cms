@@ -122,10 +122,6 @@ tr:nth-child(even) {
 tr:nth-child(even):hover {
   background-color: rgba(241, 135, 0, .7);
 }
-
-/* tr:hover {
-  background-color: rgba(241, 135, 0, .3);
-} */
  
 thead {
   background-color: rgb(241, 135, 0)
@@ -144,4 +140,24 @@ button.delete {
 
 button.delete:focus {
   outline-color: #f18700;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  font-size: .8rem;
+}
+
+footer p {
+  padding: .2rem;
+}
+
+footer a {
+  text-decoration: none;
+  color: #d87900;
+}
+
+footer a:hover {
+  font-weight: bold;
+  border-bottom: #d87900 1px dotted;
 }
