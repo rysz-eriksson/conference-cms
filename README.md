@@ -1,2 +1,2 @@
 # conference-cms
-Content Management System for updating live and vod broadcast system during industry conference
+Content Management System (front-end part) for updating live and vod broadcast system during industry conference
